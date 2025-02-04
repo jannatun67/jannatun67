@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src="https://raw.githubusercontent.com/fabrazzak/fabrazzak/refs/heads/main/github-header-image%20(1).png" />
+    <img height="200" src="https://raw.githubusercontent.com/jannatun67/jannatun67/refs/heads/main/github-header-image.png" />
 </div>
 <h1 align="center">Hi 👋, I'm Jannatun Fima</h1>
 <h3 align="center">I am frontend developer</h3>
