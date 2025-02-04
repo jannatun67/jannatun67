@@ -1,8 +1,8 @@
 <div align="center">
     <img height="200" src="https://raw.githubusercontent.com/jannatun67/jannatun67/refs/heads/main/github-header-image.png" />
 </div>
-<h1 align="center">Hi 👋, I'm Jannatun Fima</h1>
-<h3 align="center">I am frontend developer</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatun67&label=Profile%20views&color=0e75b6&style=flat" alt="jannatun67" /> </p>
 
