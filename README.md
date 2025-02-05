@@ -29,6 +29,9 @@
   </a>
   
 </div>
+###
+<h2>Contact:</h2>
+<p>0175875......</p>
 
 <h2 align="left">Frontend Skills:</h2>
 
